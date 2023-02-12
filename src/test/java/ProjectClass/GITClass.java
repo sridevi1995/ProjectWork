@@ -12,5 +12,14 @@ public class GITClass {
 	private void python() {
 		System.out.println("3");
 	}
+    private void map() {
+	System.out.println("Map");
+	}
+    private void query() {
+		System.out.println("DataBase");
+		}
+    private void dataScience() {
+		System.out.println("Data Anlayst");
 
+	}
 }
